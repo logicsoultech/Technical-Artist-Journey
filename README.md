@@ -8,7 +8,7 @@
 
 - 📍 Career transitioner, 35, Electrical Engineering background, Indonesia
 - 🎯 Near-term: Unreal Developer · Technical Developer · Simulation Developer · XR Developer · Interactive Developer · Junior TA
-- 🏁 Long-term: Technical Artist — Shader & Optimization specialist — 2028
+- 🏁 Long-term: Technical Artist — Shader & Optimization specialist 
 - 🎮 27+ years as a gamer — **WCG 2009 competitor (Dota 1)**, across PC, online, and mobile
 - 🎼 Traditional Balinese musician — international cultural performance in Taiwan
 - 🛠️ Currently: UE5 foundations → moving to shader specialization
