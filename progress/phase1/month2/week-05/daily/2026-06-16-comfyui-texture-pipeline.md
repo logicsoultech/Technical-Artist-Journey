@@ -84,7 +84,7 @@ Resolution: updated Empty Latent Image to **1024×1024** (SDXL native resolution
 - Placed 5 cube meshes in scene, one material per mesh
 - Viewed result under Lumen (Sky Light + Directional Light)
 
-[![result](./screenshots/2026-06-16-ue5-albedo-result.png)]
+![result](../screenshots/2026-06-16-ue5-albedo-result.png)
 
 ---
 
