@@ -66,6 +66,7 @@ Each HLSL expression implemented in the material graph has a specific visual fun
 
 - Converted the fabric *Normal Map* from *Tangent Space* to *World Space* using `TransformVector`.
 - This is not optional. `CameraVector` operates in *World Space*. Without this alignment, `Dot Product` produces incorrect lighting calculations whenever the camera moves — the shading breaks relative to camera angle rather than surface geometry.
+![Cloth Shading](../screenshots/2026-06-19-Cloth.png)
 
 ### 4. Lerp and Smoothstep Node Integration
 
@@ -73,9 +74,7 @@ Each HLSL expression implemented in the material graph has a specific visual fun
 - **Smoothstep — Transition Sharpness:** The Fresnel falloff from `Power` alone fades too gradually for certain fabric types. For fine fibers that should appear only at the extreme outer edge (thin satin), `Smoothstep` provides a sharper, more controllable threshold than `Power` can achieve.
 
 ---
-
-![Cloth Shading](../screenshots/2026-06-19-Cloth.png)
-![Cloth Shading with lerp and smoothstep](../2026-06-19-lerpsmoot.png)
+![Lerp and Smoothstep](../screenshots/2026-06-19-lerpsmoot.png)
 
 ## 🎯 TA Skills Practiced Today
 
